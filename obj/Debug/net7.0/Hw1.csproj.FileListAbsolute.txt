@@ -1,0 +1,15 @@
+C:\Users\TTK\Desktop\Yazilim_Calismalari\Hw1\bin\Debug\net7.0\Hw1.exe
+C:\Users\TTK\Desktop\Yazilim_Calismalari\Hw1\bin\Debug\net7.0\Hw1.deps.json
+C:\Users\TTK\Desktop\Yazilim_Calismalari\Hw1\bin\Debug\net7.0\Hw1.runtimeconfig.json
+C:\Users\TTK\Desktop\Yazilim_Calismalari\Hw1\bin\Debug\net7.0\Hw1.dll
+C:\Users\TTK\Desktop\Yazilim_Calismalari\Hw1\bin\Debug\net7.0\Hw1.pdb
+C:\Users\TTK\Desktop\Yazilim_Calismalari\Hw1\obj\Debug\net7.0\Hw1.csproj.AssemblyReference.cache
+C:\Users\TTK\Desktop\Yazilim_Calismalari\Hw1\obj\Debug\net7.0\Hw1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TTK\Desktop\Yazilim_Calismalari\Hw1\obj\Debug\net7.0\Hw1.AssemblyInfoInputs.cache
+C:\Users\TTK\Desktop\Yazilim_Calismalari\Hw1\obj\Debug\net7.0\Hw1.AssemblyInfo.cs
+C:\Users\TTK\Desktop\Yazilim_Calismalari\Hw1\obj\Debug\net7.0\Hw1.csproj.CoreCompileInputs.cache
+C:\Users\TTK\Desktop\Yazilim_Calismalari\Hw1\obj\Debug\net7.0\Hw1.dll
+C:\Users\TTK\Desktop\Yazilim_Calismalari\Hw1\obj\Debug\net7.0\refint\Hw1.dll
+C:\Users\TTK\Desktop\Yazilim_Calismalari\Hw1\obj\Debug\net7.0\Hw1.pdb
+C:\Users\TTK\Desktop\Yazilim_Calismalari\Hw1\obj\Debug\net7.0\Hw1.genruntimeconfig.cache
+C:\Users\TTK\Desktop\Yazilim_Calismalari\Hw1\obj\Debug\net7.0\ref\Hw1.dll
